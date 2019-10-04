@@ -2,13 +2,13 @@ Welcome to the website of the workshop "Regularisation for Inverse Problems and 
 
 ## Registration
 Attendance to this one-day workshop (including Lunch) is for free, but registration is **mandatory** (see here).
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScLQ1fnfXiqSfhNNlLi9YM4WdvArePn_cu-IC-Qb0kvvJhD8A/viewform?embedded=true" width="640" height="982" frameborder="0" marginheight="0" marginwidth="0">Chargement…</iframe>
 
 ## Program (draft)
 
 The talks will be held in the room 16-26-209. Coffee breaks and lunch will be organized in the room 15-25-202
 
-- 9h45-10h15 Welcome Coffee <br/>
-
+- 9h45-10h15 Welcome Coffee
 - 10h15-11h00 Talk by Martin Benning *(Queen Mary University of London)*<br/>
   **Title**: TBA 
 - 11h00-11h45 Talk by Marie-Caroline Corbineau *(CentraleSupélec, Université Paris-Saclay)*<br/>
