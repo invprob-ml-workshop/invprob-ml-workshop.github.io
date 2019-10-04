@@ -27,7 +27,10 @@ The talks will be held in the room 16-26-209. Coffee breaks and lunch will be or
   <summary><b>Abstract:</b> <i>(click to unroll)</i></summary>
   <p> TBA </p>
   </details>
-- 12h30-14h00 Lunch (Buffet)
+  <br/>
+  
+- 12h30-14h00 Lunch (Buffet)<br/>
+
 - 14h00-14h45 Talk by Lorenzo Rosasco *(LCSL, Universitá di Genova, MIT, IIT)*<br/>
   **Title**: TBA <br/>
   <details>
@@ -40,7 +43,9 @@ The talks will be held in the room 16-26-209. Coffee breaks and lunch will be or
   <summary><b>Abstract:</b> <i>(click to unroll)</i></summary>
   <p> TBA </p>
   </details>
-- 15h30-16h00 Coffee break
+  
+- 15h30-16h00 Coffee break<br/>
+
 - 16h00-16h45 Talk by Gilles Blanchard *(Université Paris-Sud, Université Paris-Saclay)*<br/>
   **Title**: TBA <br/>
   <details>
