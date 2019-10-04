@@ -16,13 +16,13 @@ The talks will be held in the room 16-26-209. Coffee breaks and lunch will be or
   TBA
   </p>
   </details>
-- 11h00-11h45 Talk: Marie-Caroline Corbineau *(CentraleSupélec, Université Paris-Saclay)*
-- 11h45-12h30 Talk: Martin Burger *(University of Erlangen-Nürnberg)*
+- 11h00-11h45 Talk by Marie-Caroline Corbineau *(CentraleSupélec, Université Paris-Saclay)*
+- 11h45-12h30 Talk by Martin Burger *(University of Erlangen-Nürnberg)*
 - 12h30-14h00 Lunch (Buffet)
-- 14h00-14h45 Talk: Lorenzo Rosasco *(LCSL, Universitá di Genova, MIT, IIT)*
-- 14h45-15h30 Talk: Silvia Villa *(Universitá di Genova)*
+- 14h00-14h45 Talk by Lorenzo Rosasco *(LCSL, Universitá di Genova, MIT, IIT)*
+- 14h45-15h30 Talk by Silvia Villa *(Universitá di Genova)*
 - 15h30-16h00 Coffee break
-- 16h00-16h45 Talk: Gilles Blanchard *(Université Paris-Sud, Université Paris-Saclay)*
+- 16h00-16h45 Talk by Gilles Blanchard *(Université Paris-Sud, Université Paris-Saclay)*
 
 ## Location
 
