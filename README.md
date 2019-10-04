@@ -30,7 +30,7 @@ The workshop is held at the Campus Jussieu. You can go there by the metro lines 
 
 The Campus Jussieu in Paris  |  Map of Jussieu
 :---------------------------:|:-------------------------:
-![](../images/plan-jussieu.png)  |  ![](../images/plan-jussieu.png)
+![](assets/images/plan-jussieu.png)  |  ![](assets/images/plan-jussieu.png)
 
 ## Registration
 
