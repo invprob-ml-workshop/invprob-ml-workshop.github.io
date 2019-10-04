@@ -32,9 +32,6 @@ The Campus Jussieu in Paris  |  Map of Jussieu
 :---------------------------:|:-------------------------:
 ![](assets/images/plan-jussieu.png)  |  ![](assets/images/plan-jussieu.png)
 
-test
-
-![alt-text-1](assets/images/plan-jussieu.png "title-1") ![alt-text-2](assets/images/plan-jussieu.png "title-2")
 
 
 ## Registration
