@@ -1,8 +1,6 @@
 Welcome to the website of the workshop "Regularisation for Inverse Problems and Machine Learning", which will be held at the Campus Jussieu (room 16-26-209) on November 18th 2019.
 
-## Registration
-Attendance to this one-day workshop (including Lunch) is for free, but registration is **mandatory** (see here).
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScLQ1fnfXiqSfhNNlLi9YM4WdvArePn_cu-IC-Qb0kvvJhD8A/viewform?embedded=true" width="640" height="982" frameborder="0" marginheight="0" marginwidth="0">Chargement…</iframe>
+Please notice that attendance to this one-day workshop (including Lunch) is free of charge, but registration is **mandatory** (see below).
 
 ## Program (draft)
 
@@ -27,3 +25,10 @@ The talks will be held in the room 16-26-209. Coffee breaks and lunch will be or
 ## Location
 
 Explain here how to reach the university and navigate through the maze which is Jussieu.
+
+## Registration
+
+Please use the form below to register. If you encounter any issues, you can instead use this [link](https://docs.google.com/forms/d/e/1FAIpQLScLQ1fnfXiqSfhNNlLi9YM4WdvArePn_cu-IC-Qb0kvvJhD8A/viewform?usp=sf_link).
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScLQ1fnfXiqSfhNNlLi9YM4WdvArePn_cu-IC-Qb0kvvJhD8A/viewform?embedded=true" width="640" height="982" frameborder="0" marginheight="0" marginwidth="0">Chargement…</iframe>
+
