@@ -1,4 +1,4 @@
-Welcome to the website of the workshop "Regularisation for Inverse Problems and Machine Learning", which will be held at the Campus Jussieu (room 16-26-209) on November 18th 2019.:+1:
+Welcome to the website of the workshop "Regularisation for Inverse Problems and Machine Learning", which will be held at the Campus Jussieu (room 16-26-209) on November 18th 2019.
 
 Please notice that attendance to this one-day workshop (including Lunch) is free of charge, but registration is **mandatory** (see [below](#registration)).
 
@@ -6,19 +6,19 @@ Please notice that attendance to this one-day workshop (including Lunch) is free
 
 The talks will be held in the room 16-26-209. Coffee breaks and lunch will be organized in the room 15-25-202
 
-- 9h45-10h15 Welcome Coffee
+- 9h45-10h15 Welcome Coffee :coffee:
 - 10h15-11h00 Talk by Martin Benning *(Queen Mary University of London)*<br/>
   **Title**: TBA 
 - 11h00-11h45 Talk by Marie-Caroline Corbineau *(CentraleSupélec, Université Paris-Saclay)*<br/>
   **Title**: TBA 
 - 11h45-12h30 Talk by Martin Burger *(University of Erlangen-Nürnberg)*<br/>
   **Title**: TBA 
-- 12h30-14h00 Lunch (Buffet)
+- 12h30-14h00 Lunch (Buffet) :fork_and_knife:
 - 14h00-14h45 Talk by Lorenzo Rosasco *(LCSL, Universitá di Genova, MIT, IIT)*<br/>
   **Title**: TBA 
 - 14h45-15h30 Talk by Silvia Villa *(Universitá di Genova)*<br/>
   **Title**: TBA 
-- 15h30-16h00 Coffee break
+- 15h30-16h00 Coffee break :coffee:
 - 16h00-16h45 Talk by Gilles Blanchard *(Université Paris-Sud, Université Paris-Saclay)*<br/>
   **Title**: TBA 
 
