@@ -1,4 +1,4 @@
-Welcome to the website of the workshop "Regularisation for Inverse Problems and Machine Learning", which will be held at Sorbonne Universités (room 16-26-209) on November 18th 2019.
+Welcome to the website of the workshop "Regularisation for Inverse Problems and Machine Learning", which will be held at Sorbonne Université (room 16-26-209) on November 18th 2019.
 
 ## Registration
 Attendance to this one-day workshop (including Lunch) is for free, but registration is *mandatory* (see here).
