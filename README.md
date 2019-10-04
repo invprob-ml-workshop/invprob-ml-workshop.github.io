@@ -26,6 +26,12 @@ The talks will be held in the room 16-26-209. Coffee breaks and lunch will be or
 
 Explain here how to reach the university and navigate through the maze which is Jussieu.
 
+The workshop is held at the Campus Jussieu. You can go there by the metro lines 7 and 10.
+
+The Campus Jussieu in Paris  |  Map of Jussieu
+:---------------------------:|:-------------------------:
+![](../images/plan-jussieu.png)  |  ![](../images/plan-jussieu.png)
+
 ## Registration
 
 Please use the form below to register. If you encounter any issues, you can instead use this [link](https://docs.google.com/forms/d/e/1FAIpQLScLQ1fnfXiqSfhNNlLi9YM4WdvArePn_cu-IC-Qb0kvvJhD8A/viewform?usp=sf_link).
