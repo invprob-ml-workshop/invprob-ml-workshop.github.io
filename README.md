@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+Welcome to the website of the workshop "Regularisation for Inverse Problems and Machine Learning", which will be held at Sorbonne Universités (room 16-26-209) on November 18th 2019.
 
-You can use the [editor on GitHub](https://github.com/invprob-ml-workshop/invprob-ml-workshop.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Registration
+Attendance to this one-day workshop (including Lunch) is for free, but registration is *mandatory* (see here).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Program (draft)
 
-### Markdown
+The talks will be held in the room 16-26-209. Coffee breaks and lunch will be organized in the room 15-25-202
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 9h45-10h15 Welcome Coffee 
+- 10h15-11h00 Talk: Martin Benning
+- 11h00-11h45 Talk: Marie-Caroline Corbineau
+- 11h45-12h30 Talk: Martin Burger
+- 12h30-14h00 Lunch (Buffet)
+- 14h00-14h45 Talk: Lorenzo Rosasco
+- 14h45-15h30 Talk: Silvia Villa
+- 15h30-16h00 Coffee break
+- 16h00-16h45 Talk: Gilles Blanchard
 
-```markdown
-Syntax highlighted code block
+## Location
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/invprob-ml-workshop/invprob-ml-workshop.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Explain here how to reach the university and navigate through the maze which is Jussieu.
