@@ -6,7 +6,7 @@ Please notice that attendance to this one-day workshop (including Lunch) is free
 
 The talks will be held in the room 16-26-209. Coffee breaks and lunch will be organized in the room 15-25-202
 
-- 9h45-10h15 Welcome Coffee :coffee:
+- 09h45-10h15 Welcome Coffee :coffee:
 - 10h15-11h00 Talk by Martin Benning *(Queen Mary University of London)*<br/>
   **Title**: TBA 
 - 11h00-11h45 Talk by Marie-Caroline Corbineau *(CentraleSupélec, Université Paris-Saclay)*<br/>
