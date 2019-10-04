@@ -1,3 +1,6 @@
 theme: jekyll-theme-cayman
 title: Regularisation for Inverse Problems and Machine Learning
 description: November 19th 2019 - Campus Jussieu, Sorbonne Université, Paris
+
+plugins:
+  - jemoji
