@@ -1,13 +1,13 @@
 Welcome to the website of the workshop "Regularisation for Inverse Problems and Machine Learning", which will be held at the Campus Jussieu (room 16-26-209) on November 18th 2019.
 
 ---------------------------
-Please notice that attendance to this one-day workshop (Lunch included) is free of charge, but registration is ***mandatory*** (you can register [here](#registration)). 
+*Please notice that attendance to this one-day workshop (Lunch included) is free of charge, but registration is ***mandatory*** (you can register [here](#registration)).*
 
 ---------------------------
 
 ## What is this Workshop about
 
-
+The purpose of the workshop is to gather together people working on different fields (imaging, machine learning, inverse problems theory) but using or studying similar-if-not-same regularisation methods approaches (Tikhonov and early stopping for instance).
 
 
 ## Program (draft)
