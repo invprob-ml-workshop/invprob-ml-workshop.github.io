@@ -32,7 +32,7 @@ Finding Jussieu in Paris  |  Finding the workshop in Jussieu
 :---------------------------:|:-------------------------:
 ![[[/assets/images/plan-paris.png]]](https://goo.gl/maps/AgoULSsBeL2beaZo7)  |  ![](assets/images/plan-jussieu.png)
 
-[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
+[<img src="/assets/images/plan-paris.png">](http://google.com.au/)
 
 
 ## Registration
