@@ -28,11 +28,11 @@ Explain here how to reach the university and navigate through the maze which is 
 
 The workshop is held at the Campus Jussieu. You can go there by the metro lines 7 and 10.
 
-The Campus Jussieu in Paris  |  Map of Jussieu
+Finding Jussieu in Paris  |  Finding the workshop in Jussieu
 :---------------------------:|:-------------------------:
-![](assets/images/plan-jussieu.png)  |  ![](assets/images/plan-jussieu.png)
+![https://goo.gl/maps/AgoULSsBeL2beaZo7](assets/images/plan-paris.png)  |  ![](assets/images/plan-jussieu.png)
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2478.2362526018137!2d2.3504486469825636!3d48.84677057629377!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e671faaf02920b%3A0x53500e1db50cf704!2sJussieu!5e0!3m2!1sfr!2sfr!4v1570446730379!5m2!1sfr!2sfr" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5894.281932868284!2d2.353252016955579!3d48.84668932004621!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e671faaf02920b%3A0x53500e1db50cf704!2sJussieu!5e0!3m2!1sfr!2sfr!4v1570447218492!5m2!1sfr!2sfr" width="400" height="300" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 
 ## Registration
 
