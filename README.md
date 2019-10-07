@@ -1,4 +1,4 @@
-Welcome to the website of the workshop "Regularisation for Inverse Problems and Machine Learning", which will be held at the Campus Jussieu (room 16-26-209) on November 18th 2019.
+Welcome to the website of the workshop "Regularisation for Inverse Problems and Machine Learning", which will be held at the Campus Jussieu (room 16-26-209) on November 19th 2019.
 
 ---------------------------
 *Please notice that attendance to this one-day workshop (Lunch included) is free of charge, but registration is **mandatory** (you can register [here](#registration)).*
