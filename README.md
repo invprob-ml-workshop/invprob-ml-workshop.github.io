@@ -52,7 +52,7 @@ Please use the form below to register. If you encounter any issues, you can inst
 
 ## Organisation
 
-- [Luca Calatroni](https://sites.google.com/view/lucacalatroni/home) (luca.calatroni 'at' polytechnique.edu)
+- [Luca Calatroni](https://sites.google.com/view/lucacalatroni/home) (calatroni 'at' i3s.unice.fr)
 - [Guillaume Garrigos](http://www.guillaume-garrigos.com/) (guillaume.garrigos 'at' lpsm.paris)
 
 This workshop is supported by the CNRS through the PEPS JCJC "Efficient iterative regularisation for inverse problems and machine learning".
