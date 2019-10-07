@@ -10,7 +10,7 @@ Welcome to the website of the workshop "Regularisation for Inverse Problems and 
 The purpose of the workshop is to gather together people working on different fields (imaging, machine learning, inverse problems theory) but using or studying similar-if-not-same regularisation methods approaches (Tikhonov and early stopping for instance).
 
 
-## Program (draft)
+## Program
 
 The talks will be held in the room 16-26-209. Coffee breaks and lunch will be organized in the room 15-25-202
 
