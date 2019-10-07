@@ -38,6 +38,7 @@ Finding Jussieu in Paris  |  Finding the workshop in Jussieu
 :---------------------------:|:-------------------------:
 [<img src="/assets/images/plan-paris.png">](https://goo.gl/maps/AgoULSsBeL2beaZo7) |  ![](assets/images/plan-jussieu.png)
 
+<br/>
 
 - [Jussieu](https://goo.gl/maps/AgoULSsBeL2beaZo7) can be accessed via the Metro lines 7 and 10. Line 7 connects to the RER B (Gare du Nord, Airport Charles de Gaulle) at Chatelet.
 - In Jussieu, get to the 2nd floor by taking the stairs/elevator through the (numbered) pillars. Talks will be in the room 209 (between pillars 16-26), coffee and lunch in the room 202 (15-25).
@@ -49,3 +50,9 @@ Please use the form below to register. If you encounter any issues, you can inst
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScLQ1fnfXiqSfhNNlLi9YM4WdvArePn_cu-IC-Qb0kvvJhD8A/viewform?embedded=true" width="640" height="982" frameborder="0" marginheight="0" marginwidth="0">Chargement…</iframe>
 
+## Organisation
+
+- [Luca Calatroni](https://sites.google.com/view/lucacalatroni/home) (luca.calatroni 'at' polytechnique.edu)
+- [Guillaume Garrigos](http://www.guillaume-garrigos.com/) (guillaume.garrigos 'at' lpsm.paris)
+
+This workshop is supported by the CNRS through the PEPS JCJC "Efficient iterative regularisation for inverse problems and machine learning".
