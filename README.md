@@ -32,6 +32,8 @@ Finding Jussieu in Paris  |  Finding the workshop in Jussieu
 :---------------------------:|:-------------------------:
 ![[[https://goo.gl/maps/AgoULSsBeL2beaZo7]]](assets/images/plan-paris.png)  |  ![](assets/images/plan-jussieu.png)
 
+[[[/assets/images/plan-paris.png]]](http://www.inf.ufrgs.br/~gozardo)
+
 
 ## Registration
 
