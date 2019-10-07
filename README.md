@@ -21,7 +21,7 @@ The talks will be held in the room 16-26-209. Coffee breaks and lunch will be or
   **Title**: TBA 
 - 11h45-12h30 Talk by Martin Burger *(University of Erlangen-Nürnberg)*<br/>
   **Title**: TBA 
-- 12h30-14h00 Lunch (Buffet) :fork_and_knife::bento:
+- 12h30-14h00 Lunch (Buffet) :fork_and_knife::hamburger:
 - 14h00-14h45 Talk by Lorenzo Rosasco *(LCSL, Universitá di Genova, MIT, IIT)*<br/>
   **Title**: TBA 
 - 14h45-15h30 Talk by Marie-Caroline Corbineau *(CentraleSupélec, Université Paris-Saclay)*<br/>
