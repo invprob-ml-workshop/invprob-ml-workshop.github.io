@@ -14,14 +14,14 @@ The purpose of the workshop is to gather together people working on different fi
 
 The talks will be held in the room 16-26-209. Coffee breaks and lunch will be organized in the room 15-25-202
 
-- 09h45-10h15 Welcome Coffee :coffee:
+- 09h45-10h15 Welcome Coffee :coffee::cookie:
 - 10h15-11h00 Talk by Martin Benning *(Queen Mary University of London)*<br/>
   **Title**: TBA 
 - 11h00-11h45 Talk by Silvia Villa *(Universitá di Genova)*<br/>
   **Title**: TBA 
 - 11h45-12h30 Talk by Martin Burger *(University of Erlangen-Nürnberg)*<br/>
   **Title**: TBA 
-- 12h30-14h00 Lunch (Buffet) :fork_and_knife:
+- 12h30-14h00 Lunch (Buffet) :fork_and_knife::bento:
 - 14h00-14h45 Talk by Lorenzo Rosasco *(LCSL, Universitá di Genova, MIT, IIT)*<br/>
   **Title**: TBA 
 - 14h45-15h30 Talk by Marie-Caroline Corbineau *(CentraleSupélec, Université Paris-Saclay)*<br/>
