@@ -1,18 +1,18 @@
-Welcome to the website of the workshop "[Regularisation for Inverse Problems and Machine Learning](https://invprob-ml-workshop.github.io/)", which will be held at the [Campus Jussieu](https://goo.gl/maps/AgoULSsBeL2beaZo7) (room 16-26-209) on November 19th 2019.
+Welcome to the website of the one-day workshop "[Regularisation for Inverse Problems and Machine Learning](https://invprob-ml-workshop.github.io/)", which will be held at the [Campus Jussieu](https://goo.gl/maps/AgoULSsBeL2beaZo7) (room 16-26-209) in Paris on November 19th 2019.
 
 ---------------------------
-*Please notice that attendance to this one-day workshop (Lunch included) is free of charge, but registration is **mandatory** (you can register [here](#registration)).*
+*Please notice that attendance to the workshop (including lunch) is free of charge, but registration is **mandatory** (you can register [here](#registration)).*
 
 ---------------------------
 
-## What is this Workshop about
+## What is this workshop about
 
-The purpose of the workshop is to gather together people working on different fields (imaging, machine learning, inverse problems theory) but using or studying similar regularisation methods approaches (Tikhonov and early stopping for instance).
+The purpose of the workshop is to gather together people working on problems arising in different fields such as imaging, machine learning and inverse problems theory in order to underline similarities and differences of the regularisation approaches used  (Tikhonov, early stopping, implicit regularization...).
 
 
 ## Program
 
-The talks will be held in the room 16-26-209. Coffee breaks and lunch will be organized in the room 15-25-202
+All the talks will be held in the room 16-26-209. Coffee breaks and lunch will be organized in the room 15-25-202
 
 - 09h45-10h15 Welcome Coffee :coffee::cookie:
 - 10h15-11h00 Talk by Martin Benning *(Queen Mary University of London)*<br/>
@@ -32,7 +32,7 @@ The talks will be held in the room 16-26-209. Coffee breaks and lunch will be or
 
 ## Location
 
-The workshop is held at the Campus Jussieu.
+The workshop will be held at the Campus Jussieu in Paris.
 
 Finding Jussieu in Paris  |  Finding the workshop in Jussieu
 :---------------------------:|:-------------------------:
@@ -40,8 +40,8 @@ Finding Jussieu in Paris  |  Finding the workshop in Jussieu
 
 <br/>
 
-- [Jussieu](https://goo.gl/maps/AgoULSsBeL2beaZo7) can be accessed via the Metro lines 7 and 10. Line 7 connects to the RER B (Gare du Nord, Airport Charles de Gaulle) at Chatelet.
-- In Jussieu, get to the 2nd floor by taking the stairs/elevator through the (numbered) pillars. Talks will be in the room 209 (between pillars 16-26), coffee and lunch in the room 202 (15-25).
+- [Jussieu](https://goo.gl/maps/AgoULSsBeL2beaZo7) can be accessed via the Metro lines 7 and 10. Line 7 connects to the RER B (Gare du Nord, Airport Charles de Gaulle) at Châtelet.
+- In Jussieu, get to the 2nd floor by taking the stairs/elevator through the (numbered) towers. Talks will be in the room 209 (between towers 16-26), coffee and lunch will be served in room 202 (15-25).
 
 
 ## Registration
@@ -50,9 +50,9 @@ Please use the form below to register. If you encounter any issues, you can inst
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScLQ1fnfXiqSfhNNlLi9YM4WdvArePn_cu-IC-Qb0kvvJhD8A/viewform?embedded=true" width="640" height="982" frameborder="0" marginheight="0" marginwidth="0">Chargement…</iframe>
 
-## Organisation
+## Organization
 
 - [Luca Calatroni](https://sites.google.com/view/lucacalatroni/home) (calatroni 'at' i3s.unice.fr)
 - [Guillaume Garrigos](http://www.guillaume-garrigos.com/) (guillaume.garrigos 'at' lpsm.paris)
 
-This workshop is supported by the CNRS through the PEPS JCJC "Efficient iterative regularisation for inverse problems and machine learning".
+This workshop is supported by the CNRS through the INSMI PEPS JCJC "Efficient iterative regularization for inverse problems and machine learning" (EFIR).
