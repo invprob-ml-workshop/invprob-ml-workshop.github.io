@@ -93,4 +93,6 @@ Please use the form below to register. If you encounter any issues, you can inst
 
 This workshop is supported by the CNRS through the INSMI PEPS JCJC "Efficient iterative regularization for inverse problems and machine learning" (EFIR).
 
+<br/>
+
 ![](assets/images/support_logo.png)
