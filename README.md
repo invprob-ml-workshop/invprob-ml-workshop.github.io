@@ -88,10 +88,10 @@ Please use the form below to register. If you encounter any issues, you can inst
 
 ## Organization
 
-- [Luca Calatroni](https://sites.google.com/view/lucacalatroni/home) (calatroni 'at' i3s.unice.fr)
-- [Guillaume Garrigos](http://www.guillaume-garrigos.com/) (guillaume.garrigos 'at' lpsm.paris)
+- [Luca Calatroni](https://sites.google.com/view/lucacalatroni/home) (calatroni 'at' i3s.unice.fr) Chargé de Recherche (CNRS) à  l'Université Nice Sophia Antipolis.
+- [Guillaume Garrigos](http://www.guillaume-garrigos.com/) (guillaume.garrigos 'at' lpsm.paris) Maître de Conférences à l'Université de Paris.
 
-This workshop is supported by the CNRS through the INSMI PEPS JCJC "Efficient iterative regularization for inverse problems and machine learning" (EFIR).
+This workshop is supported by the CNRS through the INSMI PEPS JCJC project "Efficient iterative regularization for inverse problems and machine learning" (EFIR).
 
 <br/>
 
