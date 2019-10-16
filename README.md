@@ -1,7 +1,7 @@
 Welcome to the website of the one-day workshop "[Regularisation Methods for Inverse Problems and Machine Learning](https://invprob-ml-workshop.github.io/)", which will be held at the [Campus Jussieu](https://goo.gl/maps/AgoULSsBeL2beaZo7) (room 16-26-209) in Paris on November 19th 2019.
 
 ---------------------------
-*Please notice that attendance to the workshop (including lunch) is free of charge, but registration is **mandatory** (you can register [here](#registration)).*
+*Please notice that attendance to the workshop (including lunch) is free of charge, but **registration is mandatory** (you can register [here](#registration)).*
 
 ---------------------------
 
@@ -82,7 +82,7 @@ Finding Jussieu in Paris  |  Finding the workshop in Jussieu
 
 ## Registration
 
-Please use the form below to register. If you encounter any issues, you can instead use this [link](https://docs.google.com/forms/d/e/1FAIpQLScLQ1fnfXiqSfhNNlLi9YM4WdvArePn_cu-IC-Qb0kvvJhD8A/viewform?usp=sf_link).
+Please use the form below to register. If you encounter any issues, you can instead follow this [link](https://docs.google.com/forms/d/e/1FAIpQLScLQ1fnfXiqSfhNNlLi9YM4WdvArePn_cu-IC-Qb0kvvJhD8A/viewform?usp=sf_link).
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScLQ1fnfXiqSfhNNlLi9YM4WdvArePn_cu-IC-Qb0kvvJhD8A/viewform?embedded=true" width="640" height="982" frameborder="0" marginheight="0" marginwidth="0">Chargement…</iframe>
 
