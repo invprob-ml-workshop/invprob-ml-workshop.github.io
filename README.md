@@ -66,6 +66,8 @@ All the talks will be held in the room 16-26-209. Coffee breaks and lunch will b
   </p>
   </details>
 
+![](assets/images/guests.png)
+
 ## Location
 
 The workshop will be held at the Campus Jussieu in Paris.
