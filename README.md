@@ -66,7 +66,7 @@ All the talks will be held in the room 16-26-209. Coffee breaks and lunch will b
   </p>
   </details>
 
-![](assets/images/guests.png)
+![](assets/images/guests2.png)
 
 ## Location
 
@@ -92,7 +92,7 @@ This workshop is supported by the CNRS through the INSMI PEPS JCJC project "Effi
 
 
 
-![](assets/images/support_logo.png)
+![](assets/images/support_logo2.png)
 
 ## Registration
 
