@@ -81,13 +81,6 @@ Finding Jussieu in Paris  |  Finding the workshop in Jussieu
 - [Jussieu](https://goo.gl/maps/AgoULSsBeL2beaZo7) can be accessed via the Metro lines 7 and 10. Line 7 connects to the RER B (Gare du Nord, Airport Charles de Gaulle) at Châtelet.
 - In Jussieu, get to the 2nd floor by taking the stairs/elevator through the (numbered) towers. Talks will be in the room 209 (between towers 16-26), coffee and lunch will be served in room 202 (15-25).
 
-
-## Registration
-
-Please use the form below to register. If you encounter any issues, you can instead follow this [link](https://docs.google.com/forms/d/e/1FAIpQLScLQ1fnfXiqSfhNNlLi9YM4WdvArePn_cu-IC-Qb0kvvJhD8A/viewform?usp=sf_link).
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScLQ1fnfXiqSfhNNlLi9YM4WdvArePn_cu-IC-Qb0kvvJhD8A/viewform?embedded=true" width="640" height="982" frameborder="0" marginheight="0" marginwidth="0">Chargement…</iframe>
-
 ## Organization
 
 - [Luca Calatroni](https://sites.google.com/view/lucacalatroni/home) (calatroni 'at' i3s.unice.fr) Chargé de Recherche (CNRS) à  l'Université Nice Sophia Antipolis.
@@ -97,6 +90,13 @@ Please use the form below to register. If you encounter any issues, you can inst
 
 This workshop is supported by the CNRS through the INSMI PEPS JCJC project "Efficient iterative regularization for inverse problems and machine learning" (EFIR).
 
-<br/>
+
 
 ![](assets/images/support_logo.png)
+
+## Registration
+
+Please use the form below to register. If you encounter any issues, you can instead follow this [link](https://docs.google.com/forms/d/e/1FAIpQLScLQ1fnfXiqSfhNNlLi9YM4WdvArePn_cu-IC-Qb0kvvJhD8A/viewform?usp=sf_link).
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScLQ1fnfXiqSfhNNlLi9YM4WdvArePn_cu-IC-Qb0kvvJhD8A/viewform?embedded=true" width="640" height="982" frameborder="0" marginheight="0" marginwidth="0">Chargement…</iframe>
+
