@@ -1,7 +1,7 @@
 Welcome to the website of the one-day workshop "[Regularisation for Inverse Problems and Machine Learning](https://invprob-ml-workshop.github.io/)", which will be held at the [Campus Jussieu](https://goo.gl/maps/AgoULSsBeL2beaZo7) (room 16-26-209) in Paris on November 19th 2019.
 
 ---------------------------
-*Please notice that attendance to the workshop (including lunch) is free of charge, but **registration is mandatory** (you can register [here](#registration)). Due to room limitations, **the number of participants will be capped**: following a first come/first served principle, the first 60 registered people will be accepted, the following ones will be placed on a waiting list. After you registered, you will receive an email confirming whether you can or not attend the workshop, this before November 7th.* 
+*Due to room limitations, **the inscriptions are now CLOSED**. If you wish you can ask for being placed in a waiting list [here](#registration).* 
 
 ---------------------------
 
@@ -96,7 +96,7 @@ This workshop is supported by the CNRS through the INSMI PEPS JCJC project "Effi
 
 ## Registration
 
-Please use the form below to register. If you encounter any issues, you can instead follow this [link](https://docs.google.com/forms/d/e/1FAIpQLScLQ1fnfXiqSfhNNlLi9YM4WdvArePn_cu-IC-Qb0kvvJhD8A/viewform?usp=sf_link).
+Due to room limitations, the inscriptions are now closed. If you wish you can ask for being placed in a waiting list by using the form below. If you encounter any issues, you can instead follow this [link](https://docs.google.com/forms/d/e/1FAIpQLScLQ1fnfXiqSfhNNlLi9YM4WdvArePn_cu-IC-Qb0kvvJhD8A/viewform?usp=sf_link).
 
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScLQ1fnfXiqSfhNNlLi9YM4WdvArePn_cu-IC-Qb0kvvJhD8A/viewform?embedded=true" width="640" height="1065" frameborder="0" marginheight="0" marginwidth="0">Chargement…</iframe>
