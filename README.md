@@ -99,5 +99,5 @@ This workshop is supported by the CNRS through the INSMI PEPS JCJC project "Effi
 Please use the form below to register. If you encounter any issues, you can instead follow this [link](https://docs.google.com/forms/d/e/1FAIpQLScLQ1fnfXiqSfhNNlLi9YM4WdvArePn_cu-IC-Qb0kvvJhD8A/viewform?usp=sf_link).
 
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScLQ1fnfXiqSfhNNlLi9YM4WdvArePn_cu-IC-Qb0kvvJhD8A/viewform?embedded=true" width="640" height="982" frameborder="0" marginheight="0" marginwidth="0">Chargement…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScLQ1fnfXiqSfhNNlLi9YM4WdvArePn_cu-IC-Qb0kvvJhD8A/viewform?embedded=true" width="640" height="1065" frameborder="0" marginheight="0" marginwidth="0">Chargement…</iframe>
 
