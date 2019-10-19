@@ -1,7 +1,7 @@
 Welcome to the website of the one-day workshop "[Regularisation for Inverse Problems and Machine Learning](https://invprob-ml-workshop.github.io/)", which will be held at the [Campus Jussieu](https://goo.gl/maps/AgoULSsBeL2beaZo7) (room 16-26-209) in Paris on November 19th 2019.
 
 ---------------------------
-*Due to room limitations, **the inscriptions are now CLOSED**. If you wish you can ask for being placed in a waiting list [here](#registration).* 
+*Due to room limitations, **the inscriptions are now CLOSED**. If you wish you can ask for being placed in a waiting list [here](#registration). If instead you already registered but cannot attend the event, please let us know [here](https://forms.gle/oHhtxUnshMk8uNfUA).* 
 
 ---------------------------
 
