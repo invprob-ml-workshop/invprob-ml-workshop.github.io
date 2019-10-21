@@ -92,7 +92,7 @@ This workshop is supported by the CNRS through the INSMI PEPS JCJC project "Effi
 
 
 
-![](assets/images/support_logo2.png)
+![](assets/images/support_logo3.png)
 
 ## Registration
 
