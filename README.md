@@ -96,8 +96,8 @@ This workshop is supported by the CNRS through the INSMI PEPS JCJC project "Effi
 
 ## Registration
 
-Due to room limitations, the inscriptions are now closed. If you wish you can ask for being placed in a waiting list by using the form below. If you encounter any issues, you can instead follow this [link](https://docs.google.com/forms/d/e/1FAIpQLScLQ1fnfXiqSfhNNlLi9YM4WdvArePn_cu-IC-Qb0kvvJhD8A/viewform?usp=sf_link).
+Due to room limitations, the inscriptions are now closed. 
 
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScLQ1fnfXiqSfhNNlLi9YM4WdvArePn_cu-IC-Qb0kvvJhD8A/viewform?embedded=true" width="640" height="1065" frameborder="0" marginheight="0" marginwidth="0">Chargement…</iframe>
+
 
