@@ -16,7 +16,7 @@ This is supposed to be a hidden page for tests
 # test
 
 <!-- Here we do a loop over the data registered in _data/program.yml by using Liquid for Jekyll -->
-{%- for event in site.data.program -%}
+{% for event in site.data.program %}
 {%- if event.type == "talk" -%}
 - {{ event.time }} Talk by [{{ event.name }}]({{ event.web }}) *({{ event.affiliation }})*<br/>
   **Title**: {{ event.title }}<br/>
@@ -27,4 +27,4 @@ This is supposed to be a hidden page for tests
 {%- else -%}
 - {{ event.time }} {{ event.type }}
 {%- endif -%}
-{%- endfor -%}
+{% endfor %}
