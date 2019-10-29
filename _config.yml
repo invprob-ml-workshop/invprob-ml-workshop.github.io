@@ -3,3 +3,5 @@ title: Regularisation for Inverse Problems and Machine Learning
 description: November 19th 2019 - Campus Jussieu, Sorbonne Université, Paris
 footer: 'The template of this webpage and its contents can be found on <a href="https://github.com/invprob-ml-workshop/invprob-ml-workshop.github.io">Github</a>.'
 
+plugins:
+  - jemoji
