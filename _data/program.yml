@@ -22,7 +22,7 @@
   name: Martin Burger
   web: "https://en.www.math.fau.de/applied-mathematics-prof-burger/"
   affiliation: FAU Erlangen-Nürnberg
-  title: Implicit regularization in machine learning: a perspective from iterative regularization theory
+  title: "Implicit regularization in machine learning: a perspective from iterative regularization theory"
   abstract: "In this talk we will approach the implicit regularization properties found when applying (stochastic) gradient descent to empirical risk minimization problems ( e.g. in deep learning) with the paradigms of regularization theory in inverse problems. We will demonstrate the decrease of the population risk up to a specific error, which can be estimated in optimal transport metrics. We will discuss the analogy of such properties to the classical discrepancy principle in iterative regularization."
   
 - time: 12h30-14h00
