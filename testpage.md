@@ -1,4 +1,4 @@
-This is supposed to be a hidden page for tests 2
+This is supposed to be a hidden page for tests 3
 
 # Program
 
@@ -10,7 +10,7 @@ This is supposed to be a hidden page for tests 2
   <summary><b>Abstract:</b> <i>(click to unroll)</i></summary>
   <p>{{ event.abstract }}</p>
   </details>
-{% else -%}
+{% else %}
 - {{ event.time }} {{ event.type }}<br/>
 {%- endif -%}
 {% endfor %}
