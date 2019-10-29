@@ -12,4 +12,5 @@ This is supposed to be a hidden page for tests 2
   </details>
 {% else -%}
 - {{ event.time }} {{ event.type }}<br/>
-{% endif %}{% endfor %}
+{%- endif -%}
+{% endfor %}
