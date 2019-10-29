@@ -58,7 +58,6 @@ Due to room limitations, the inscriptions are now closed.
 
 ## List of Participants
 
-<!-- Here we do a loop over the data registered in _data/participants.csv by using Liquid for Jekyll -->
 | Name | Affiliation | 
 |------|-------------|{% for member in site.data.participants %}
 | {{ member.Name }} | {{ member.Affiliation }} |{% endfor %}
