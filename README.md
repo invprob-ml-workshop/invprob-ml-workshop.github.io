@@ -14,6 +14,9 @@ The purpose of the workshop is to gather together people working on problems ari
 
 All the talks will be held in the room 16-26-209. Coffee breaks and lunch will be organized in the room 15-25-202.
 
+{% include program.md %}
+
+
 <!-- Here we do a loop over the data registered in _data/program.yml by using Liquid for Jekyll -->
 {% for event in site.data.program %}{% if event.type == "talk" %}
 - {{ event.time }} Talk by [{{ event.name }}]({{ event.web }}) *({{ event.affiliation }})*<br/>
