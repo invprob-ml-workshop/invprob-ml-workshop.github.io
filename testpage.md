@@ -13,7 +13,7 @@ This is supposed to be a hidden page for tests
   </details>
   
   
-# test
+# test 2
 
 <!-- Here we do a loop over the data registered in _data/program.yml by using Liquid for Jekyll -->
 {% for event in site.data.program %}
