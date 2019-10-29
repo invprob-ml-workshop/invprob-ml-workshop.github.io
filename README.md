@@ -48,7 +48,5 @@ Due to room limitations, the inscriptions are now closed.
 
 ## List of Participants
 
-| Name | Affiliation | 
-|------|-------------|{% for member in site.data.participants %}
-| {{ member.Name }} | {{ member.Affiliation }} |{% endfor %}
+{% include participants.md %}
 
