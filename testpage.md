@@ -1,9 +1,10 @@
-This is supposed to be a hidden page for tests 8
+This is supposed to be a hidden page for tests 9
 
 # Program
 
 <!-- Here we do a loop over the data registered in _data/program.yml by using Liquid for Jekyll -->
-{%- for event in site.data.program -%}{% if event.type == "talk" %}
+<!-- Managing the whitespaces induced by {%} is tricky -->
+{% for event in site.data.program %}{% if event.type == "talk" %}
 - {{ event.time }} Talk by [{{ event.name }}]({{ event.web }}) *({{ event.affiliation }})*<br/>
   **Title**: {{ event.title }}<br/>
   <details>
