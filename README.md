@@ -100,64 +100,10 @@ Due to room limitations, the inscriptions are now closed.
 
 ## List of Participants
 
-| Name                          | Institute                                              | 
-|-------------------------------|--------------------------------------------------------| 
-| Cécilia TARPAU                | ETIS / LPTM / LMV                                      | 
-| Joseph Salmon                 | Université de Montpellier / IMAG                       | 
-| Jean-Luc Starck               | CEA Saclay                                             | 
-| Youssef EL HABOUZ             | IGDR rennes                                            | 
-| Paul Dufossé                  | INRIA/CMAP                                             | 
-| Zoltan Szabo                  | CMAP, Ecole Polytechnique                              | 
-| Luigi Carratino               | University of Genova                                   | 
-| Kamelia Daudel                | Telecom Paris                                          | 
-| Mastane Achab                 | Télécom ParisTech, LTCI                                | 
-| Justin Carpentier             | INRIA                                                  | 
-| Yury Maximov                  | Los Alamos National Laboratory                         | 
-| Stéphane Crépey               | LaMME                                                  | 
-| Pascal Guehl                  | Laboratoire de recherche ICube                         | 
-| Samuel Vaiter                 | CNRS & IMB                                             | 
-| Jean-David Fermanian          | Crest                                                  | 
-| Chandrachud Basavaraj         | StillMind                                              | 
-| Moreau Thomas                 | Inria                                                  | 
-| Stefano De Marco              | Ecole Polytechnique                                    | 
-| Dorinel Bastide               | BNP Paribas                                            | 
-| Lénaïc Chizat                 | Cnrs/LMO                                               | 
-| Quentin Bertrand              | INRIA                                                  | 
-| Ismael CASTILLO               | LPSM Sorbonne Université                               | 
-| Antoine Chambaz               | Université de Paris                                    | 
-| Camille Pouchol               | Université de Paris                                    | 
-| Mathurin Massias              | Inria                                                  | 
-| Pierre Marion                 | LPSM                                                   | 
-| Ruben OHANA                   | Laboratoire de Physique de l'ENS                       | 
-| Markus Schmidtchen            | LJLL                                                   | 
-| Barbara Gris                  | LJLL (Sorbonne Université)                             | 
-| Zaccharie Ramzi               | Inria                                                  | 
-| Letrouit Cyril                | LJLL                                                   | 
-| Vincent DUVAL                 | INRIA Paris / CEREMADE                                 | 
-| Baptiste Gregorutti           | Safety Line                                            | 
-| Frédéric Nataf                | LJLL                                                   | 
-| SHIJIE DONG                   | LJLL                                                   | 
-| Carole LE GUYADER             | Laboratoire de Mathématiques de l'INSA Rouen Normandie | 
-| Marcela Szopos                | MAP5, Univ. de Paris                                   | 
-| EL KAROUI Nicole              | LPSM Jussieu                                           | 
-| Della Valle Cécile            | LJLL                                                   | 
-| Odyssée Merveille             | CREATIS / INSA                                         | 
-| Pauline Tan                   | LJLL, Sorbonne Université                              | 
-| Bouazza SAADEDDINE            | Crédit Agricole CIB - LaMME - LPSM                     | 
-| Nacime Bouziani               | Imperial College London                                | 
-| Ilaria Giulini                | Université Paris Diderot                               | 
-| KAI SHIMAGAKI                 | LCQB, Sorbonne Université                              | 
-| Laraki Rida                   | CNRS, PSL-Dauphine                                     | 
-| Pierre-cyril Aubin-frankowski | MINES ParisTech                                        | 
-| El mehdi Said                 | LMRS (Université de Rouen)                             | 
-
-
-## List of Participants
-
-<ul>
+| Name                          | Affiliation                                             | 
+|-------------------------------|--------------------------------------------------------|
 {% for member in site.data.participants %}
-  <li>
-      {{ member.Name }}
-  </li>
+| {{ member.Name }}             | {{ member.Affiliation }}                               | 
 {% endfor %}
-</ul>
+
+
