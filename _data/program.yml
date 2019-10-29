@@ -27,11 +27,6 @@
   
 - time: 12h30-14h00
   type: "Lunch (Buffet) :fork_and_knife::hamburger:"
-  name: 
-  web: 
-  affiliation: 
-  title: 
-  abstract: 
   
 - time: 14h00-14h45
   type: talk
@@ -51,11 +46,6 @@
 
 - time: 15h30-16h00
   type: "Coffee break :coffee:"
-  name: 
-  web: 
-  affiliation: 
-  title: 
-  abstract: 
 
 - time: 16h00-16h45
   type: talk
