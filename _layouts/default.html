@@ -30,7 +30,7 @@
       {{ content }}
 
       <footer class="site-footer">
-        <span class="site-footer-credits">The template of this webpage can be found on <a href="https://github.com/invprob-ml-workshop/invprob-ml-workshop.github.io">Github</a>.</span>
+        <span class="site-footer-credits">{{ site.footer | default: "Footer" }}</span>
       </footer>
     </main>
   </body>
