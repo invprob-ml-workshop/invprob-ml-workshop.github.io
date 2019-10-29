@@ -3,7 +3,7 @@ This is supposed to be a hidden page for tests 9
 # Program
 
 <!-- Here we do a loop over the data registered in _data/program.yml by using Liquid for Jekyll -->
-<!-- Managing the whitespaces induced by {%} is tricky -->
+<!-- Managing the whitespaces induced by loops and ifs is tricky -->
 {% for event in site.data.program %}{% if event.type == "talk" %}
 - {{ event.time }} Talk by [{{ event.name }}]({{ event.web }}) *({{ event.affiliation }})*<br/>
   **Title**: {{ event.title }}<br/>
