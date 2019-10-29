@@ -152,4 +152,12 @@ Due to room limitations, the inscriptions are now closed.
 | El mehdi Said                 | LMRS (Université de Rouen)                             | 
 
 
+## List of Participants
 
+<ul>
+{% for member in site.data.participants %}
+  <li>
+      {{ member.Name }}
+  </li>
+{% endfor %}
+</ul>
