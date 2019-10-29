@@ -25,6 +25,6 @@ This is supposed to be a hidden page for tests
   <p>{{ event.abstract }}</p>
   </details>
 {% else %}
-- {{ event.time }} {{ event.type }}
+- {{ event.time }} {{ event.type }}<br/>
 {% endif %}
 {% endfor %}
