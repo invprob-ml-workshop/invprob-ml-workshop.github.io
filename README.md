@@ -103,5 +103,3 @@ Due to room limitations, the inscriptions are now closed.
 | Name | Affiliation | 
 |------|-------------|{% for member in site.data.participants %}
 | {{ member.Name }} | {{ member.Affiliation }} |{% endfor %}
-
-
