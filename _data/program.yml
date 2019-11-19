@@ -65,7 +65,8 @@
   name: Lorenzo Rosasco
   web: "http://web.mit.edu/lrosasco/www/"
   affiliation: LCSL, Universitá di Genova, MIT, IIT
-  title: "Not so fast: learning with accelerated optimization [slides](/assets/slides/rosasco.pdf)"
+  title: "Not so fast: learning with accelerated optimization"
+  slides: rosasco.pdf
   abstract: >-
     The focus on optimization is a major trend in modern machine learning. 
     In turn, a number of optimization solutions have been recently developed and motivated by machine learning applications. 
@@ -80,6 +81,7 @@
   web: "https://hal.archives-ouvertes.fr/search/index/q/*/authIdHal_s/marie-caroline-corbineau"
   affiliation: CentraleSupélec, Université Paris-Saclay
   title: "Deep Unfolding of a Proximal Interior Point Method for Image Restoration"
+  slides: corbineau.pdf
   abstract: >-
     Variational methods are widely applied to ill-posed inverse problems for they have the ability to embed 
     prior knowledge about the solution. However, the level of performance of these methods significantly depends
