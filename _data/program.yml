@@ -51,6 +51,7 @@
   web: "https://en.www.math.fau.de/applied-mathematics-prof-burger/"
   affiliation: FAU Erlangen-Nürnberg
   title: "Implicit regularization in machine learning: a perspective from iterative regularization theory"
+  slides: burger.pdf
   abstract: >-
     In this talk we will approach the implicit regularization properties found when applying (stochastic) gradient descent 
     to empirical risk minimization problems ( e.g. in deep learning) with the paradigms of regularization theory in inverse problems. 
