@@ -65,7 +65,7 @@
   name: Lorenzo Rosasco
   web: "http://web.mit.edu/lrosasco/www/"
   affiliation: LCSL, Universitá di Genova, MIT, IIT
-  title: "Not so fast: learning with accelerated optimization"
+  title: "Not so fast: learning with accelerated optimization [slides](/assets/slides/rosasco.pdf)"
   abstract: >-
     The focus on optimization is a major trend in modern machine learning. 
     In turn, a number of optimization solutions have been recently developed and motivated by machine learning applications. 
