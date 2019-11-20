@@ -1,7 +1,7 @@
 Welcome to the website of the one-day workshop "[{{ site.title }}](https://invprob-ml-workshop.github.io/)", which will be held at the [Campus Jussieu](https://goo.gl/maps/AgoULSsBeL2beaZo7) (room 16-26-209) in Paris on November 19th 2019.
 
 ---------------------------
-The Workshop is now done, thanks to everyone participating. All the slides of the presentations are available, see the [program](https://invprob-ml-workshop.github.io/#program).
+The Workshop is now done, thanks to everyone participating. All the slides of the presentations are available, see the [program](https://invprob-ml-workshop.github.io/#program) below.
 
 ---------------------------
 
