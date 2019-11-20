@@ -7,6 +7,7 @@
   web: "https://www.qmul.ac.uk/maths/profiles/benningmartin.html"
   affiliation: Queen Mary University of London
   title: "Deep learning as optimal control problems"
+  slides: benning.pdf
   abstract: >-
     We consider recent works where deep neural networks have been interpreted as discretisations of an optimal control problem 
     subject to an ordinary differential equation constraint. We review the first order conditions for optimality, and the conditions 
@@ -25,6 +26,7 @@
   web: "http://lcsl.mit.edu/data/silviavilla/Home.html"
   affiliation: Universitá di Genova
   title: "Stability and regularization properties of diagonal proximal gradient methods"
+  slides: villa.pdf
   abstract: >-
     Many applied problems in science and engineering can be modeled as noisy inverse problems. 
     Tackling these problems requires to dealwith their possible ill-posedness and to devise efficient 
@@ -108,6 +110,7 @@
   web: "https://www.ihes.fr/professeur/gilles-blanchard-2/"
   affiliation: Université Paris-Sud, Université Paris-Saclay
   title: "Simultaneous adaptation for several criteria using an extended Lepskii principle"
+  slides: blanchard.pdf
   abstract: >-
     In the setting of supervised learning, we propose a data-dependent regularization parameter selection rule that is 
     adaptive to the unknown regularity of the target function and is optimal both for the least-square (prediction) error 
