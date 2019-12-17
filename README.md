@@ -38,7 +38,7 @@ Finding Jussieu in Paris  |  Finding the workshop in Jussieu
 
 ## Support
 
-This workshop is supported by the CNRS through the INSMI PEPS JCJC project "Efficient iterative regularization for inverse problems and machine learning" (EFIR), and the [GdR Mathématiques de l'Optimisation et Applications](http://gdrmoa.math.cnrs.fr/).
+This workshop is supported by the CNRS through the INSMI PEPS JCJC project "Efficient iterative regularization for inverse problems and machine learning" (EFIR), the [GdR Mathématiques de l'Optimisation et Applications](http://gdrmoa.math.cnrs.fr/), and the [Laboratoire de Probabilités, Statistiques et Modélisation](https://www.lpsm.paris/).
 
 ![](assets/images/support_logo3.png)
 
